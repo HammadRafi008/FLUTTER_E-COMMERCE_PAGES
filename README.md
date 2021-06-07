@@ -1,4 +1,4 @@
-# e_commerce_app
+# E_Commerce_App Pages
 
 A new Flutter project. In this project i have create a E~Commerce App UI ..
 
